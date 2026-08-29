@@ -17,7 +17,7 @@
 - 🧹 I like taking messy, real-world datasets and turning them into clear, actionable findings
 - 🛠️ Comfortable across the full analytics workflow: cleaning → SQL analysis → visualization → storytelling
 - 📈 Currently practicing SQL interview problems and preparing for junior Data Analyst roles
-- 📫 Reach me at: **[your email]** &nbsp;|&nbsp; **[LinkedIn]**
+- 📫 Reach me at: **[abdulghafoorab21@gmail.com]** &nbsp;|&nbsp; **[https://www.linkedin.com/in/abdul-g-69b834240/]**
 
 ---
 
