@@ -49,15 +49,6 @@ Capstone case study comparing casual riders vs. annual members across ~5.7M ride
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdul446223&show_icons=true&theme=default" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul446223&layout=compact" height="160" />
-</p>
-
----
-
 ### 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-g-69b834240/)
