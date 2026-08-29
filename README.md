@@ -17,7 +17,7 @@
 - 🧹 I like taking messy, real-world datasets and turning them into clear, actionable findings
 - 🛠️ Comfortable across the full analytics workflow: cleaning → SQL analysis → visualization → storytelling
 - 📈 Currently practicing SQL interview problems and preparing for junior Data Analyst roles
-- 📫 Reach me at: **[abdulghafoorab21@gmail.com]** &nbsp;|&nbsp; **[https://www.linkedin.com/in/abdul-g-69b834240/]**
+- 📫 Reach me at: **[abdulghafoorab21@gmail.com]** &nbsp;|&nbsp; **[LinkedIn](https://www.linkedin.com/in/abdul-g-69b834240/)**
 
 ---
 
@@ -60,6 +60,6 @@ Capstone case study comparing casual riders vs. annual members across ~5.7M ride
 
 ### 🤝 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](your-linkedin-url-here)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-g-69b834240/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](your-kaggle-url-here)
-[![Tableau](https://img.shields.io/badge/Tableau_Public-E97627?style=flat&logo=tableau&logoColor=white)](your-tableau-public-url-here)
+[![Tableau](https://img.shields.io/badge/Tableau_Public-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/abdul.ghafoor7798/vizzes)
